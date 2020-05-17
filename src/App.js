@@ -14,7 +14,7 @@ function App() {
         Belligerent and numerous.
       </p>
 
-      <button className="text-white font-bold bg-purple-700 hover:bg-purple-800 py-2 px-4 rounded">
+      <button className="btn btn-purple">
         Party with Slurm!
       </button>
 
